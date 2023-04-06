@@ -1,8 +1,0 @@
-{
-    "name": "Dark",
-    "version": "5.2",
-    "description": "Dark theme for phpMyAdmin",
-    "author": "Ethan",
-    "url": "https://github.com/LFDPhoenix1411/pma-DarkTheme",
-    "supports": ["5.2"]
-}
