@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg1022"
+   sodipodi:docname="field-spatial.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1026" />
+  <sodipodi:namedview
+     id="namedview1024"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="26.15625"
+     inkscape:cx="16.019116"
+     inkscape:cy="16.019116"
+     inkscape:window-width="1920"
+     inkscape:window-height="1015"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1022" />
+  <path
+     d="m12 2v28h2v-28zm-10 4v20h8v-20zm2 2h4v4h-4zm0 6h4v4h-4zm0 6h4v4h-4z"
+     id="path1018"
+     style="fill:#ffffff" />
+  <path
+     d="m24 6c-3.3 0-6 2.7-6 6 0 5 4 9 6 14 2-5 6-9 6-14 0-3.3-2.7-6-6-6zm0 3c1.7 0 3 1.3 3 3s-1.3 3-3 3-3-1.3-3-3 1.3-3 3-3z"
+     id="path1020"
+     style="fill:#ffffff" />
+</svg>
