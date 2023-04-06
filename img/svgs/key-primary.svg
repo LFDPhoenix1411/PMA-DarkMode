@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg1391"
+   sodipodi:docname="key-primary.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1395" />
+  <sodipodi:namedview
+     id="namedview1393"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="26.15625"
+     inkscape:cx="16.019116"
+     inkscape:cy="16.019116"
+     inkscape:window-width="1920"
+     inkscape:window-height="1015"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1391" />
+  <path
+     d="m22 2c-4.4 0-8 3.6-8 8 0 .6.1 1.2.2 1.8l-12.2 12.2v4l2 2h4v-4h4v-4h4v-4l1.4-1.4c1.3.9 3 1.4 4.6 1.4 4.4 0 8-3.6 8-8s-3.6-8-8-8zm2 4c1.1 0 2 .9 2 2s-.9 2-2 2-2-.9-2-2 .9-2 2-2zm0 14v4h-4v2h4v4h2v-4h4v-2h-4v-4z"
+     id="path1389"
+     style="fill:#ffffff" />
+</svg>
