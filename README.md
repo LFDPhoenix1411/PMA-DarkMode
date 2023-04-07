@@ -15,6 +15,6 @@
 
 And here are a couple of screenshots of what you'll be getting:
 
-![alt text](https://github.com/LFDPhoenix1411/pma-DarkTheme/blob/master/login_screenshot.png "Login Screenshot")
+![alt text](https://github.com/LFDPhoenix1411/PMA-DarkMode/blob/master/login_screenshot.png "Login Screenshot")
 
-![alt text](https://github.com/LFDPhoenix1411/pma-DarkTheme/blob/master/panel_screenshot.png "Panel Screenshot")
+![alt text](https://github.com/LFDPhoenix1411/PMA-DarkMode/blob/master/panel_screenshot.png "Panel Screenshot")
