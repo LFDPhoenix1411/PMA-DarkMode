@@ -7,7 +7,7 @@
 * Go to your themes directory:
 `cd /usr/share/phpmyadmin/themes`
 
-* Clone the repository: `sudo git clone https://github.com/LFDPhoenix1411/pma-DarkTheme.git`
+* Clone the repository: `sudo git clone https://github.com/LFDPhoenix1411/PMA-DarkMode.git`
 
 * Go to your phpMyAdmin page and select the *dark* theme
 
